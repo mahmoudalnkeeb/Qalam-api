@@ -1,8 +1,8 @@
-# Qalam
+# UP
 
-Qalam is a multi-user blogging platform where users can share their articles and posts with a community of readers, who can then comment, interact, and engage with the content.
+UP is a multi-user blogging platform where users can share their articles and posts with a community of readers, who can then comment, interact, and engage with the content.
 
-### With Qalam, users can: 
+### With UP, users can: 
 
 <br>
 
@@ -21,4 +21,4 @@ Qalam is a multi-user blogging platform where users can share their articles and
 <br>
 
 
-Join the Qalam community today and start sharing your thoughts and ideas with a global audience!
+Join the UP community today and start sharing your thoughts and ideas with a global audience!
